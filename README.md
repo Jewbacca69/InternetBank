@@ -12,7 +12,7 @@
 
 1. **Clone the Repository:**
    ```bash
-      git clone https://github.com/your_username/repository_name.git
+      git clone https://github.com/Jewbacca69/InternetBank.git
    ```
    
 2. **Run:**
