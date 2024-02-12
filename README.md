@@ -47,7 +47,7 @@
     And
     
     ```bash
-        php artisan app:update-crypto-prices
+        php artisan app:update-currency-prices
     ```
     
     **All done!**
